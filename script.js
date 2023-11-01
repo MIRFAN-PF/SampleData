@@ -6,3 +6,5 @@ $('.baby-names-contains tr').each(function() {
     }
 })
 console.log(temp_data)
+
+// https://www.muslimname.info/babyname/startingWith/B-Boy
